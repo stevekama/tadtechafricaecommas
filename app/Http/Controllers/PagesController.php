@@ -12,4 +12,10 @@ class PagesController extends Controller
         # code...
         return view('pages.index');
     }
+
+    public function shop()
+    {
+        # code...
+        return view('pages.shop');
+    }
 }
