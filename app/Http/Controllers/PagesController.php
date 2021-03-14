@@ -18,4 +18,10 @@ class PagesController extends Controller
         # code...
         return view('pages.shop');
     }
+
+    public function product_datails()
+    {
+        # code...
+        return view('pages.product');
+    }
 }

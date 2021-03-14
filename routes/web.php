@@ -17,3 +17,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [PagesController::class, 'index'])->name('home');
 
 Route::get('/shop', [PagesController::class, 'shop'])->name('shop');
+
+Route::get('/product', [PagesController::class, 'product_datails'])->name('product');

@@ -144,7 +144,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                    <h2><a href="{{ route('product') }}">Simple Black Clock</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -181,7 +181,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">BO&Play Wireless Speaker</a></h2>
+                                    <h2><a href="{{ route('product') }}">BO&Play Wireless Speaker</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -213,7 +213,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Brone Candle</a></h2>
+                                    <h2><a href="{{ route('product') }}">Brone Candle</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -245,7 +245,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Brone Lamp Glasses</a></h2>
+                                    <h2><a href="{{ route('product') }}">Brone Lamp Glasses</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -277,7 +277,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Clothes Boxed</a></h2>
+                                    <h2><a href="{{ route('product') }}">Clothes Boxed</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -309,7 +309,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Liquid Unero Ginger Lily</a></h2>
+                                    <h2><a href="{{ route('product') }}">Liquid Unero Ginger Lily</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -341,7 +341,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Miliraty Backpack</a></h2>
+                                    <h2><a href="{{ route('product') }}">Miliraty Backpack</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -373,7 +373,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Saved Wines Corkscrew</a></h2>
+                                    <h2><a href="{{ route('product') }}">Saved Wines Corkscrew</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -405,7 +405,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Simple Fabric Bags</a></h2>
+                                    <h2><a href="{{ route('product') }}">Simple Fabric Bags</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -437,7 +437,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Simple Fabric Chair</a></h2>
+                                    <h2><a href="{{ route('product') }}">Simple Fabric Chair</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -469,7 +469,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Unero Round Sunglass</a></h2>
+                                    <h2><a href="{{ route('product') }}">Unero Round Sunglass</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -501,7 +501,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Unero Small Bag</a></h2>
+                                    <h2><a href="{{ route('product') }}">Unero Small Bag</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -533,7 +533,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Wood Complex Lamp Box</a></h2>
+                                    <h2><a href="{{ route('product') }}">Wood Complex Lamp Box</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -565,7 +565,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Wood Long TV Board</a></h2>
+                                    <h2><a href="{{ route('product') }}">Wood Long TV Board</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -597,7 +597,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Wood Simple Chair V2</a></h2>
+                                    <h2><a href="{{ route('product') }}">Wood Simple Chair V2</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
@@ -629,7 +629,7 @@
                                     </div>
                                 </div>
                                 <div class="product__details">
-                                    <h2><a href="product-details.html">Wood Simple Clock</a></h2>
+                                    <h2><a href="{{ route('product') }}">Wood Simple Clock</a></h2>
                                     <ul class="product__price">
                                         <li class="old__price">$16.00</li>
                                         <li class="new__price">$10.00</li>
