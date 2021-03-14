@@ -24,4 +24,16 @@ class PagesController extends Controller
         # code...
         return view('pages.product');
     }
+
+    public function blog()
+    {
+        # code...
+        return view('pages.blog');
+    }
+
+    public function contact()
+    {
+        # code...
+        return view('pages.contact');
+    }
 }

@@ -61,17 +61,17 @@
                                 <ul class="main__menu">
                                     <li><a href="{{ route('home') }}">Home</a></li>
                                     <li><a href="{{ route('shop') }}">Shop</a></li>
-                                    <li><a href="/blog">Blog</a></li>
-                                    <li><a href="/contact">contact</a></li>
+                                    <li><a href="{{ route('blog') }}">Blog</a></li>
+                                    <li><a href="{{ route('contact') }}">contact</a></li>
                                 </ul>
                             </nav>
                             <div class="mobile-menu clearfix visible-xs visible-sm">
                                 <nav id="mobile_dropdown">
                                     <ul>
-                                        <li><a href="/">Home</a></li>
-                                        <li><a href="/shop">Shop</a></li>
-                                        <li><a href="/blog">blog</a></li>
-                                        <li><a href="/contact">contact</a></li>
+                                        <li><a href="{{ route('home') }}">Home</a></li>
+                                        <li><a href="{{ route('shop') }}">Shop</a></li>
+                                        <li><a href="{{ route('blog') }}">blog</a></li>
+                                        <li><a href="{{ route('contact') }}">contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
