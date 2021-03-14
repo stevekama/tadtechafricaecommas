@@ -142,7 +142,7 @@
                                         </div>
                                     </div>
                                 </li>
-                                
+
                                 <li><a href="#"><img alt="" src="{{asset('storage/images/icons/thum4.png')}}"> Computer & Office <i class="zmdi zmdi-chevron-right"></i></a>
                                     <div class="category-menu-dropdown">
                                         <div class="category-menu-dropdown-top">
@@ -193,7 +193,7 @@
                                         </div>
                                     </div>
                                 </li>
-                                
+
                                 <li><a href="#"><img alt="" src="{{asset('storage/images/icons/thum5.png')}}"> Jewelry & Watches <i class="zmdi zmdi-chevron-right"></i></a>
                                     <div class="category-menu-dropdown">
                                         <div class="category-menu-dropdown-left">
@@ -283,7 +283,7 @@
                                 </li>
 
                                 <li><a href="#"><img alt="" src="{{asset('storage/images/icons/thum7.png')}}"> Bags & Shoes</a></li>
-                                
+
                                 <li><a href="#"><img alt="" src="{{asset('storage/images/icons/thum8.png')}}"> Toys & Kids & Baby</a></li>
                                 <li><a href="#"><img alt="" src="{{asset('storage/images/icons/thum9.png')}}">  Automobiles </a></li>
                                 <li><a href="#"><img alt="" src="{{asset('storage/images/icons/thum10.png')}}"> Jewelry & Watches</a></li>
@@ -387,7 +387,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -412,7 +412,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -437,7 +437,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -462,7 +462,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -487,7 +487,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -518,7 +518,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -568,7 +568,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -593,7 +593,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -618,7 +618,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -649,7 +649,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -674,7 +674,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -699,7 +699,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -724,7 +724,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -749,7 +749,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -780,7 +780,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -805,7 +805,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -830,7 +830,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -908,7 +908,7 @@
     </div>
     <!-- Start Our Product Area -->
 
-    <section class="htc__product__area pb--100 bg__white"> 
+    <section class="htc__product__area pb--100 bg__white">
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
@@ -987,7 +987,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1012,7 +1012,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1037,7 +1037,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1062,7 +1062,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1087,7 +1087,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1118,7 +1118,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1143,7 +1143,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1168,7 +1168,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1193,7 +1193,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1218,7 +1218,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1243,7 +1243,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1274,7 +1274,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1299,7 +1299,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1349,7 +1349,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1374,7 +1374,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1399,7 +1399,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1430,7 +1430,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1455,7 +1455,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1480,7 +1480,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1505,7 +1505,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1530,7 +1530,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1555,7 +1555,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1665,7 +1665,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1690,7 +1690,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1715,7 +1715,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1746,7 +1746,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1771,7 +1771,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1796,7 +1796,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1828,7 +1828,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1853,7 +1853,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1878,7 +1878,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1910,7 +1910,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1935,7 +1935,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
@@ -1960,7 +1960,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="product__details">
-                                                    <h2><a href="product-details.html">Simple Black Clock</a></h2>
+                                                    <h2><a href="{{ route('product')}}">Simple Black Clock</a></h2>
                                                     <ul class="product__price">
                                                         <li class="old__price">$16.00</li>
                                                         <li class="new__price">$10.00</li>
