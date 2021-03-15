@@ -23,3 +23,9 @@ Route::get('/product', [PagesController::class, 'product_datails'])->name('produ
 Route::get('/blog', [PagesController::class, 'blog'])->name('blog');
 
 Route::get('/contact', [PagesController::class, 'contact'])->name('contact');
+
+Route::get('/cart', [PagesController::class, 'cart'])->name('cart');
+
+Route::get('/wishlist', [PagesController::class, 'wishlist'])->name('wishlist');
+
+Route::get('/checkout', [PagesController::class, 'checkout'])->name('checkout');

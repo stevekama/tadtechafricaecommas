@@ -36,4 +36,22 @@ class PagesController extends Controller
         # code...
         return view('pages.contact');
     }
+
+    public function cart()
+    {
+        # code...
+        return view('pages.cart');
+    }
+
+    public function wishlist()
+    {
+        # code...
+        return view('pages.wishlist');
+    }
+
+    public function checkout()
+    {
+        # code...
+        return view('pages.checkout');
+    }
 }

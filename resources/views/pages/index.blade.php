@@ -1641,7 +1641,7 @@
                                 </li>
                             </ul>
                             <div class="all-product-btn">
-                                <a href="shop-sidebar.html">all</a>
+                                <a href="#">all</a>
                             </div>
                         </div>
                         <div class="tab-content another-product-style">
