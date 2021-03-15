@@ -54,4 +54,10 @@ class PagesController extends Controller
         # code...
         return view('pages.checkout');
     }
+
+    public function customer_account()
+    {
+        # code...
+        return view('customers.login-register');
+    }
 }

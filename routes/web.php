@@ -29,3 +29,5 @@ Route::get('/cart', [PagesController::class, 'cart'])->name('cart');
 Route::get('/wishlist', [PagesController::class, 'wishlist'])->name('wishlist');
 
 Route::get('/checkout', [PagesController::class, 'checkout'])->name('checkout');
+
+Route::get('/login-register', [PagesController::class, 'customer_account'])->name('login-register');
