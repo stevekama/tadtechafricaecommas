@@ -14,20 +14,25 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', [PagesController::class, 'index'])->name('home');
+Route::prefix('/')->group(function () {
 
-Route::get('/shop', [PagesController::class, 'shop'])->name('shop');
+    Route::get('/', [PagesController::class, 'index'])->name('home');
 
-Route::get('/product', [PagesController::class, 'product_datails'])->name('product');
+    Route::get('shop', [PagesController::class, 'shop'])->name('shop');
 
-Route::get('/blog', [PagesController::class, 'blog'])->name('blog');
+    Route::get('product', [PagesController::class, 'product_datails'])->name('product');
 
-Route::get('/contact', [PagesController::class, 'contact'])->name('contact');
+    Route::get('blog', [PagesController::class, 'blog'])->name('blog');
 
-Route::get('/cart', [PagesController::class, 'cart'])->name('cart');
+    Route::get('contact', [PagesController::class, 'contact'])->name('contact');
 
-Route::get('/wishlist', [PagesController::class, 'wishlist'])->name('wishlist');
+    Route::get('cart', [PagesController::class, 'cart'])->name('cart');
 
-Route::get('/checkout', [PagesController::class, 'checkout'])->name('checkout');
+    Route::get('wishlist', [PagesController::class, 'wishlist'])->name('wishlist');
 
-Route::get('/login-register', [PagesController::class, 'customer_account'])->name('login-register');
+    Route::get('checkout', [PagesController::class, 'checkout'])->name('checkout');
+
+    Route::get('login-register', [PagesController::class, 'customer_login'])->name('login-register');
+
+    Route::get('account', [PagesController::class, 'customer_acccount'])->name('account');
+});
